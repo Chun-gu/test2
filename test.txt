@@ -1,9 +1,6 @@
 print ("Hello World")
-<<<<<<< HEAD
 print ("pikachu")
-=======
 print ("laichu")
->>>>>>> origin/master
 print ("pairi")
 print ("kkobugi")
 print ("butterfle")
